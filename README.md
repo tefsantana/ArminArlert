@@ -4,5 +4,5 @@
 # Sobre el proyecto
 Este proyecto es una interfaz gráfica de usuario con Java ( `IGU` ), fue por puro entretenimiento y ocio.
 
-# ¿Por qué Armin Arlert?
+## ¿Por qué Armin Arlert?
 Es uno de mis personajes favoritos de anime. Proviene de Attack on Titan. 
