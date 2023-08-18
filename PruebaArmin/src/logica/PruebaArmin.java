@@ -9,7 +9,7 @@ import igu.Principal;
 
 /**
  *
- * @author Seba
+ * @author Estefania Santana
  */
 public class PruebaArmin {
     public static void main(String[] args) {
